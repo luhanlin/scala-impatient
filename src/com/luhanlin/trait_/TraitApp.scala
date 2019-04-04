@@ -4,4 +4,5 @@ object TraitApp extends App {
 
     private val account = new SavingAccount()
     account.log("test")
+
 }
