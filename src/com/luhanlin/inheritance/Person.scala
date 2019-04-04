@@ -7,7 +7,7 @@ abstract class Person {
     var name: String
 }
 
-class Employee(val id: Int) extends Person {
-    var name = ""
-}
+//class Employee(val id: Int) extends Person {
+//    var name = ""
+//}
 
